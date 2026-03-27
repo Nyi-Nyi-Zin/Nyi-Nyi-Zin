@@ -5,6 +5,7 @@
 - 🎓 Computer Science student  
 - 🌱 Self-taught and passionate about learning new technologies  
 - 🌐 Experienced in **Web and Mobile Development**  
+- ☁️ Deployed apps using **Alibaba Cloud** and **1Panel**  
 - ⚡ Always exploring modern frameworks, tools, and best practices  
 
 ---
@@ -47,6 +48,8 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![1Panel](https://img.shields.io/badge/1Panel-4B8BBE?style=for-the-badge&logo=cloud&logoColor=white)
 
 ---
 
@@ -63,4 +66,4 @@
 ---
 
 ### ⚡ Fun Fact
-- Always experimenting with new frameworks and libraries 🚀
+- Always experimenting with new frameworks, libraries, and deployment tools 🚀
