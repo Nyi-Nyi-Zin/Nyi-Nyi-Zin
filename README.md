@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Nyi-Nyi-Zin
 
 ### 🌟 About Me
-- 💻 **Full Stack Developer** with 3+ years of experience  
+- 💻 **Full Stack Developer** with 4+ years of experience  
 - 🎓 Computer Science student  
 - 🌱 Self-taught and passionate about learning new technologies  
 - 🌐 Experienced in **Web and Mobile Development**  
