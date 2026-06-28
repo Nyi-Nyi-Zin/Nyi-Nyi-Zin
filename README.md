@@ -61,7 +61,7 @@
 
 ### 💬 Connect with Me
 - 📫 Email: [nyinyizin1818@gmail.com](mailto:nyinyizin1818@gmail.com)  
-- 🌐 Portfolio: [https://nyinyizin.vercel.app/](https://nyinyizin.vercel.app/)  
+- 🌐 Portfolio: [https://nyinyizin-portfolio.vercel.app/](https://nyinyizin-portfolio.vercel.app/)  
 
 ---
 
