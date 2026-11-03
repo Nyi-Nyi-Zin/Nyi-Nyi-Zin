@@ -4,7 +4,7 @@
 - 💻 **Full Stack Developer** with 7+ years of experience  
 - 🎓 Computer Science student  
 - 🌱 Self-taught and passionate about learning new technologies  
-- 🌐 Experienced in **Web and Mobile Development**  
+- 🌐 Experienced in **Web , Mobile & Ai Development**  
 - ☁️ Deployed apps using **Alibaba Cloud** and **1Panel**  
 - ⚡ Always exploring modern frameworks, tools, and best practices  
 
